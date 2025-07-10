@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=com.nata.pusher
+Exec=/usr/bin/com.nata.pusher
+Name=Pusher
+Name[ru]=Пуши
+
+[X-Application]
+Permissions=Audio;Camera;Documents;Downloads;Internet;Location;Microphone;Music;Pictures;PublicDir;PushNotifications;RemovableMedia;Videos;WebView
+OrganizationName=com.nata
+ApplicationName=pusher
+
