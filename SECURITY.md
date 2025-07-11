@@ -1,21 +1,16 @@
-# Security Policy
+# Политика безопасности
 
-## Supported Versions
+Если вы нашли уязвимость в проекте NataLeePusherForAuroraOS, пожалуйста, следуйте данной политике безопасности.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## 📫 Контакты для отчётов
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Сообщайте об уязвимостях на:
+- Telegram: [@rechainchat](https://t.me/rechainchat)
 
-## Reporting a Vulnerability
+Пожалуйста, предоставьте максимально полное описание уязвимости и пошаговые инструкции для её воспроизведения.
 
-Use this section to tell people how to report a vulnerability.
+## 🔒 Общие рекомендации
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+- Не публикуйте уязвимость публично до её устранения.
+- Дайте разумный срок для устранения (обычно 30 дней).
+- После исправления уязвимости вы будете добавлены в список благодарностей (если хотите).
